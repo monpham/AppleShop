@@ -1,0 +1,23 @@
+{
+  "properties": [
+    {
+      "name": "paypal.client.id",
+      "type": "java.lang.String",
+      "description": "Description for paypal.client.id."
+    },
+    {
+      "name": "paypal.client.secret",
+      "type": "java.lang.String",
+      "description": "Description for paypal.client.secret."
+    },
+    {
+      "name": "paypal.client.secret",
+      "type": "java.lang.String",
+      "description": "Description for paypal.client.secret."
+    },
+    {
+      "name": "paypal.client.id",
+      "type": "java.lang.String",
+      "description": "Description for paypal.client.id."
+    }
+  ] }
